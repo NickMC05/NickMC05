@@ -6,6 +6,25 @@ I'm a Roblox/Unity game developer. My main role is as a programmer specializing 
 
 I create various kinds of games that connect and entertain millions of players around the world. I also own and lead Nicknation Games, a game development community that shares my passion for innovation and creativity.
 
+## My Stats
+
+Year started | 2017
+:--- | :---
+Total game visits | +21.000.000
+Monthly Active Users peak | +1.000.000
+Total favorites | +80.000
+Concurrent Players peak | +1.350
+Concurrent YouTubers played | +200
+Total games I've worked on | 39
+
+Game Engine | # of Games
+:--- | :---
+Roblox | 23
+Unity | 9
+Unreal Engine 5 | 2
+Godot | 1
+Others | 4
+
 # Games I am working/worked on...
 
 ![NPC World](https://nickmc05.github.io/assets/images/2-1288x725.png)
@@ -14,4 +33,6 @@ I create various kinds of games that connect and entertain millions of players a
 ![The Talking NPC](https://nickmc05.github.io/assets/images/3-1288x725.png)
 ![Obby Master](https://nickmc05.github.io/assets/images/11-1288x725.png)
 
---> [Click here for more...](https://nickmc05.github.io/)
+# More
+
+--> [Website](https://nickmc05.github.io/)
