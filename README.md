@@ -1,3 +1,5 @@
+![Nicknation Games (1920x540)](https://github.com/user-attachments/assets/5b86c269-93fe-4b05-a734-2eb053db2d0b)
+
 # 🌠 Hi. I am Nick.
 
 I'm a Roblox/Unity game developer. My main role is as a programmer specializing in gameplay programming and AI NPC behaviors.
@@ -12,4 +14,4 @@ I create various kinds of games that connect and entertain millions of players a
 ![The Talking NPC](https://nickmc05.github.io/assets/images/3-1288x725.png)
 ![Obby Master](https://nickmc05.github.io/assets/images/11-1288x725.png)
 
-[Click here for more...](https://nickmc05.github.io/)
+--> [Click here for more...](https://nickmc05.github.io/)
