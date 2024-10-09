@@ -10,7 +10,7 @@ I create various kinds of games that connect and entertain millions of players a
 
 Year started | 2017
 :--- | :---
-Total game visits | +21.000.000
+Total game visits | +21.500.000
 Monthly Active Users peak | +1.000.000
 Total favorites | +80.000
 Concurrent Players peak | +1.350
