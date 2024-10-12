@@ -4,7 +4,7 @@
 
 I'm a Roblox/Unity game developer. My main role is as a programmer specializing in gameplay programming and AI NPC behaviors.
 
-I create various kinds of games that connect and entertain millions of players around the world. I also own and lead Nicknation Games, a game development community that shares my passion for innovation and creativity.
+I create various kinds of games that connect and entertain millions of players worldwide. I also own and lead Nicknation Games, a game development community that shares my passion for innovation and creativity.
 
 ## My Stats
 
