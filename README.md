@@ -1,6 +1,6 @@
 ![Nicknation Games (1920x540)](https://github.com/user-attachments/assets/5b86c269-93fe-4b05-a734-2eb053db2d0b)
 
-# 🌠 Hi. I am Nick.
+# 🌠 Hi, I am Nick.
 
 I'm a Roblox/Unity game developer. My main role is as a programmer specializing in gameplay programming and AI NPC behaviors.
 
