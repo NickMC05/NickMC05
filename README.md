@@ -23,24 +23,28 @@
 
 ### 🎯 IRIS: Wisdom and Virtue | UE5 C++/Blueprints
 <img width="1920" height="1080" alt="IRIS Preview" src="https://github.com/user-attachments/assets/9e6d54d1-2086-4804-a979-5945dfb90933" />
+
 - Architected modular combat, parkour, and AI enemy systems using Behavior Trees & EQS
 - Implemented profiling passes to maintain stable 60 FPS during complex sequences
 - **Awarded perfect grade (A+)** as HKU Final Year Project
 
 ### ⚙️ Programming Job Simulator | UE5 C++/Blueprints
 <img width="1920" height="1080" alt="PJS Preview" src="https://github.com/user-attachments/assets/e7b608dd-da84-46c1-9c0f-0652043582e7" />
+
 - Integrated Llama LLM, Whisper STT, and F5 TTS into low-latency conversational pipeline
 - Optimized inference/animation sync to achieve <500ms end-to-end response time
 - Designed context-management and fallback logic for robust edge-case handling
 
 ### 🗺️ Sicarius | Unity C#
 <img width="1920" height="1080" alt="Sicarius Preview" src="https://github.com/user-attachments/assets/fb090c0e-b1ef-47e9-bc71-2086ecd30755" />
+
 - Led 10-person freelance team to build top-down action game with procedural map generation
 - Implemented data-driven enemy AI using finite state machines and event buses
 - **Featured #1 Most Popular** on Unity Play Winter Showcase 2024 (334 submissions)
 
 ### 🛠️ cineDESK Enhancement | UE5 UMG/Slate Blueprints
 <img width="1920" height="1080" alt="cineDESK Preview" src="https://github.com/user-attachments/assets/02f8d8f2-3848-41e0-ae21-4d9068ead4e2" />
+
 - Developed intuitive timeline/camera panels for cinematic authoring workflow
 - Optimized widget rendering and data-binding to reduce memory overhead by ~30%
 - Collaborated with non-technical artists to translate creative needs into stable tooling
